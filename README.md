@@ -10,7 +10,7 @@ To find more correlations that may not be as obvious, we ran multiple importance
 <img src="https://github.com/MissWibbon/education-ml/blob/data_cleaning/images/GradientBoostingImportance.JPG" width="400">
 
 We decided to move forward with a linear regression model using completion rate as our dependent variable and the rest of the 13 chosen variables as the independent input.  After training and scaling the data, our model had an r-squared value of 0.75 and the most important indicators showing up as cost and average standardized test scores.  
-<img src="https://github.com/MissWibbon/education-ml/blob/data_cleaning/images/LinRegImportance.JPG" width="400">
+<img src="https://github.com/MissWibbon/education-ml/blob/data_cleaning/images/LinRegImportance.png" width="400">
 
 
 **Technologies and Tools Used:** Python, Pandas, Matplotlib, numpy, seaborn, Random Forest, sklearn, Tableau
